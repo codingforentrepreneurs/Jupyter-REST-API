@@ -34,4 +34,8 @@ In this series, we're going to combine the two ideas to make a automation powerh
 - Streaming Notebook Cell Results
 
 
+#### Resources
+- [Scrape & Save Data from BoxOfficeMojo gist](https://gist.github.com/codingforentrepreneurs/44e53db884fe9bfaf92ce09fae743923)
+
+
 #### Coming Soon
