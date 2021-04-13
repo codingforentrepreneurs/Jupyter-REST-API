@@ -1,0 +1,20 @@
+Endpoint:	https://www.boxofficemojo.com/year/world/2020/
+Response Status:	200
+Rows:	1991
+Columns:	7
+Saved to /Users/cfe/Dev/jupyter-api/src/data/2020.csv
+
+Endpoint:	https://www.boxofficemojo.com/year/world/2005/
+Response Status:	200
+Rows:	1352
+Columns:	7
+Saved to /Users/cfe/Dev/jupyter-api/src/data/2005.csv
+
+Endpoint:	https://www.boxofficemojo.com/year/world/2015/
+Response Status:	200
+Rows:	2431
+Columns:	7
+Saved to /Users/cfe/Dev/jupyter-api/src/data/2015.csv
+
+Endpoint:	https://www.boxofficemojo.com/year/world/2302/
+Response Status:	404
