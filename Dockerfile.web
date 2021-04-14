@@ -23,6 +23,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN python3 -m pip install pip --upgrade
 RUN python3 -m pip install -r requirements.txt
 
+RUN chmod +x run.sh
 
 # what to run
 CMD ["./run.sh"]
