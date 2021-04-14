@@ -12,7 +12,7 @@ app = FastAPI()
 
 @app.get("/") # HTTP GET
 def read_root():
-    return {"hello": "world", "parent": str(BASE_DIR)}
+    return {"hello": "world", "parent": str(BASE_DIR), "container": "hello"}
 
 # @app.post('/') # HTTP POST
 # def write_root():
